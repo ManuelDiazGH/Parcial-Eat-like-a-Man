@@ -1,17 +1,17 @@
 # Parcial Eat Like a Man
 
-Aplicaci?n fullstack desarrollada para el primer parcial de Programaci?n 4.
+Aplicacion fullstack desarrollada para el primer parcial de Programacion 4.
 
 ## Stack
 - **Backend:** FastAPI + SQLModel + PostgreSQL
 - **Frontend:** React + TypeScript + TanStack Query + React Router
 
 ## Funcionalidad principal
-- CRUD de categor?as, ingredientes y productos
-- Relaci?n N:N entre productos, categor?as e ingredientes
-- Relaci?n reflexiva de subcategor?as (`Categoria -> parent_id`)
-- Borrado l?gico en categor?as, ingredientes y productos
-- Navegaci?n con rutas din?micas para detalles
+- CRUD de categorias, ingredientes y productos
+- Relacion N:N entre productos, categorias e ingredientes
+- Relacion reflexiva de subcategorias (`Categoria -> parent_id`)
+- Borrado logico en categorias, ingredientes y productos
+- Navegacion con rutas dinamicas para detalles
 
 ## Video
 - YouTube: https://youtu.be/s7_tItsn4Do
@@ -19,7 +19,7 @@ Aplicaci?n fullstack desarrollada para el primer parcial de Programaci?n 4.
 ## Repositorio
 - GitHub: https://github.com/ManuelDiazGH/Parcial-Eat-like-a-Man
 
-## C?mo ejecutar
+## Como ejecutar
 
 ### Backend
 ```bash
